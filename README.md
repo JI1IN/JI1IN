@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @JI1IN
 
-Welcome to my GitHub profile! I'm passionate about the ever-evolving world of **Machine Learning** and enjoy delving into data-driven solutions.
+Welcome to my GitHub profile! I'm a junior developer and I am passionate about the world of **Machine Learning** and enjoy delving into data-driven solutions.
 
 ## Currently Learning
 
