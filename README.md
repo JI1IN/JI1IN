@@ -12,7 +12,7 @@ I’m currently focusing on expanding my expertise in:
 ## 🌟 Fun Facts
 
 - **Elden Ring Enthusiast**: I’m a dedicated fan of Elden Ring and enjoy diving into the challenging world of Soulslike games. I’m always up for a new adventure and appreciate a good challenge!
-- **Animanga Aficionado**: I’m a huge fan of anime and manga, with **'Bleach'** being my all-time favorite anime and **'Berserk'** my top manga pick. I love discussing plot twists and character development!
+- **Animanga Aficionado**: I’m a huge fan of anime and manga, with **'Bleach'** being my all-time favorite anime and **'Berserk'** my top manga pick. 
 
 ## 📬 How to Reach Me
 
