@@ -16,7 +16,8 @@ I’m currently focusing on expanding my expertise in:
 - **Elden Ring Enthusiast**: I’m a dedicated fan of Elden Ring and enjoy soulslike games. I love getting beaten over and over again by a boss.
 - **Animanga Aficionado**: I’m a huge fan of anime and manga, with **'Erased'** being my all-time favorite anime and **'Goodnight PunPun'** my top manga pick.
 - **Codewars**: I love doing some coding problems when I am bored. Codewars is a platform where users all around the world try to solve coding problems labeled as "Katas".
-   Here is my profile: [https://www.codewars.com/users/JI1IN]
+
+  Here is my profile: [https://www.codewars.com/users/JI1IN]
 
 ## 📬 How to Reach Me
 
