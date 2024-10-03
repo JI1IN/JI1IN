@@ -21,6 +21,7 @@ I’m currently focusing on expanding my expertise in:
 ## 📬 How to Reach Me
 
 You can reach out via email at: [CHE220133@spengergasse.at](mailto:CHE220133@spengergasse.at)
+
 Or my LinkedIn: [https://www.linkedin.com/in/jason-chen-0784bb329/]
 
 ---
