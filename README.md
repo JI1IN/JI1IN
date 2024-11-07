@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a junior developer with a strong passion for
 
 I’m currently focusing on expanding my expertise in:
 
-- **Python**: Using frameworks like "Flask" to build the backend of my web-applications
+- **Python**: Using frameworks like "Flask" to build the backend of my web-applications. Currently learning the data structures in this one.
 - **SQL**: SQL for anything that requires databases (pretty useful for any applications involving user data)
 - **ReactJs**: Using React to build better websites
 - **TailwindCSS**: Currently experimenting with different frameworks like TailwindCSS or BootStrap5 to expand my knowledge.
